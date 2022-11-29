@@ -1,0 +1,14 @@
+09:31:00 From Ramesh Thangavelu to Everyone:
+	Good Morning
+09:34:07 From Faculty (Olympus) to Everyone:
+	https://drive.google.com/drive/folders/1kJ0ARO7cffEYU-YtzbnvtEQ4p2uJeiV8
+09:34:23 From Ramesh Thangavelu to Everyone:
+	Thank you
+11:14:21 From Senthil Thirumurthy to Everyone:
+	imputer = SimpleImputer(missing_values=None, strategy='most_frequent') dfstd.gender = imputer.fit_transform(dfstd['gender'].values.reshape(-1,1))[:,0]
+11:19:50 From Faculty (Olympus) to Everyone:
+	dfstd.gender = imputer.fit_transform(dfstd[[‘gender’]])[:,0]
+11:23:34 From Faculty (Olympus) to Everyone:
+	https://github.com/drivendata/cookiecutter-data-science/tree/master/%7B%7B%20cookiecutter.repo_name%20%7D%7D
+11:23:44 From Faculty (Olympus) to Everyone:
+	https://github.com/tqdm/tqdm

@@ -1,0 +1,24 @@
+09:49:59 From Deepak Gattala to Everyone:
+	Please explain it
+09:51:44 From Deepak Gattala to Everyone:
+	yes
+09:58:43 From Deepak Gattala to Everyone:
+	What will be different with categorical and non categorical variable decision trees. How you approach each one of them what is the frame work
+10:02:18 From Deepak Gattala to Everyone:
+	I can write a case or if condition and keep in same column with encoding
+10:02:31 From Deepak Gattala to Everyone:
+	Would that still make a difference
+10:03:29 From Deepak Gattala to Everyone:
+	My question is it one better than other
+10:03:38 From Deepak Gattala to Everyone:
+	Performance wise ..etc
+10:04:12 From Faculty (Olympus) to Everyone:
+	https://drive.google.com/drive/folders/1psPpK_icxNdxUb6YDziok_O1eUEgHkrD
+10:31:35 From Senthil Thirumurthy to Everyone:
+	Break?
+11:25:54 From Faculty (Olympus) to Everyone:
+	https://scikit-learn.org/stable/modules/model_evaluation.html
+11:26:04 From Faculty (Olympus) to Everyone:
+	https://scikit-learn.org/stable/modules/cross_validation.html
+11:26:16 From Faculty (Olympus) to Everyone:
+	https://www.arzanirani.com/blog/guide_hyperparameter_optimization/

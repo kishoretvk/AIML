@@ -1,0 +1,76 @@
+09:32:00 From Deepak Gattala to Everyone:
+	Titanic hands on Lab if you can spend some time
+09:32:15 From Sundara Senthil to Everyone:
+	yes
+09:33:43 From Tomydas Antony Pallivathukal to Everyone:
+	yes
+09:37:59 From Tomydas Antony Pallivathukal to Everyone:
+	bar plot
+09:38:10 From Senthil Thirumurthy to Everyone:
+	bar plot
+09:38:17 From Guillermo Ron to Everyone:
+	yes Bar Plot
+09:39:40 From Tomydas Antony Pallivathukal to Everyone:
+	yes
+09:45:26 From Deepak Gattala to Everyone:
+	What is blind test
+09:50:48 From Elisa Schroeder to Everyone:
+	yes
+09:50:50 From Partha Borah to Everyone:
+	yes
+09:59:44 From Radhakrishnan Rajaraman to Everyone:
+	How do you get covariance?
+09:59:53 From Radhakrishnan Rajaraman to Everyone:
+	can you explain once more
+10:00:02 From Sundara Senthil to Everyone:
+	Hope a example which clear diff between correlation and covariance
+10:12:25 From Deepak Gattala to Everyone:
+	What graph is used when. How we map that
+10:13:44 From Deepak Gattala to Everyone:
+	Is it with experience
+10:13:45 From Deepak Gattala to Everyone:
+	:)
+10:15:06 From Guillermo Ron to Everyone:
+	https://www.wallstreetmojo.com/correlation-vs-covariance/
+10:15:12 From Deepak Gattala to Everyone:
+	Univariate we should do this and multi variate I do this and bi variate I do this
+10:15:23 From Deepak Gattala to Everyone:
+	Any thing in those lines
+10:18:08 From Deepak Gattala to Everyone:
+	:)
+10:18:11 From Deepak Gattala to Everyone:
+	thx
+10:18:20 From Sundara Senthil to Everyone:
+	Thanks @Guillermo
+10:32:56 From Deepak Gattala to Everyone:
+	https://www.youtube.com/watch?v=rJsWJMBksK0
+10:33:32 From Deepak Gattala to Everyone:
+	This is the video on nbextenstion
+10:33:59 From Ramesh Thangavelu to Everyone:
+	Thanks Deepak
+10:34:39 From Elisa Schroeder to Everyone:
+	It seems like it would be eaiser if we grouped states into regions?
+10:40:53 From Tomydas Antony Pallivathukal to Everyone:
+	6
+10:50:09 From Alla Arefeva to Everyone:
+	Can we have a break for a couple of minutes?
+10:51:52 From Deepak Gattala to Everyone:
+	yes
+10:52:09 From Deepak Gattala to Everyone:
+	Can you draw a line on the bar chart
+10:52:12 From Deepak Gattala to Everyone:
+	Can we see both?
+10:54:22 From Deepak Gattala to Everyone:
+	https://mpld3.github.io/examples/scatter_tooltip.html
+10:54:26 From Deepak Gattala to Everyone:
+	How to add tool tip
+10:58:39 From Guillermo Ron to Everyone:
+	For Windows multiline edit should use ALT+ SHIFT
+11:28:38 From Guillermo Ron to Everyone:
+	estimator = "mean", ci = "sd"
+11:34:57 From Tam Minh Vu to Everyone:
+	Please share the notebook and ppt.  There are good tips in it we can use.
+11:35:14 From Alla Arefeva to Everyone:
+	thank you for the session Arzan
+11:35:17 From Tomydas Antony Pallivathukal to Everyone:
+	Thank you
