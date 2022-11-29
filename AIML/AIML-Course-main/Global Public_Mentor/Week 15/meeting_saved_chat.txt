@@ -1,0 +1,12 @@
+09:28:37 From Faculty (Olympus) to Everyone:
+	https://drive.google.com/drive/folders/15NWKRLIT1CnlHguf0ECN_PIV0YSomLKe
+09:58:16 From Kiranrajan Kumar to Everyone:
+	Sorry got held up. joined late
+10:26:26 From Faculty (Olympus) to Everyone:
+	https://mlflow.org
+11:16:32 From RANJAN MITRA to Everyone:
+	yes
+11:16:44 From Sundara Senthil to Everyone:
+	Yes
+11:24:32 From Faculty (Olympus) to Everyone:
+	https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html

@@ -1,0 +1,18 @@
+09:30:34 From Faculty (Olympus) to Everyone:
+	https://drive.google.com/drive/folders/1087uEN9Oi3DX6Qk6__sD9R9k5w5uCBld
+09:45:30 From Kiranrajan Kumar gl to Everyone:
+	Joined Late
+10:21:35 From Ravi Pasapula gl to Everyone:
+	Is there a value we replace NaN values also?
+10:22:20 From Ravi Pasapula gl to Everyone:
+	in the dataset
+10:24:24 From Ravi Pasapula gl to Everyone:
+	why small positive value and not zero?
+10:25:13 From Ravi Pasapula gl to Everyone:
+	is there a special reason for not putting a zero?
+10:25:18 From Ravi Pasapula gl to Everyone:
+	would it mess up any calculation?
+10:25:36 From Ravi Pasapula gl to Everyone:
+	ok, thanks
+10:29:48 From Senthil Thirumurthy gl to Everyone:
+	Do you get to pass feedback to Great Learning - I see that you have comments every week on the notebooks

@@ -1,0 +1,37 @@
+09:30:28 From Tomydas Antony Pallivathukal to Everyone:
+	Good Morning
+09:46:24 From Radhakrishnan Rajaraman to Everyone:
+	Hello Arzan, could you please explain how to find the threshold value in precision recall curve
+10:08:28 From Faculty (Olympus) to Everyone:
+	https://drive.google.com/drive/folders/1RDG67QHoijjN-Nm8KKrIFEf52qPu0Rf1
+10:10:51 From Ramesh Thangavelu to Everyone:
+	I am not able to see new2 notebook at the above link
+10:11:13 From Ramesh Thangavelu to Everyone:
+	got it
+10:29:39 From Faculty (Olympus) to Everyone:
+	https://mlflow.org/docs/latest/quickstart.html
+10:33:59 From Tam Minh Vu to Everyone:
+	appreciate the tip.
+10:47:15 From Senthil Thirumurthy to Everyone:
+	# find the point where precision and recall meet
+	[i for i, j in zip(prec, rec) if i == j]
+10:47:23 From Senthil Thirumurthy to Everyone:
+	[index for index, (p, r) in enumerate(zip(prec, rec)) if p == r]
+10:47:28 From Senthil Thirumurthy to Everyone:
+	tre[2043]
+11:17:38 From Faculty (Olympus) to Everyone:
+	https://www.youtube.com/watch?v=D0efHEJsfHo
+11:29:21 From Senthil Thirumurthy to Everyone:
+	Are you able to hear us?
+11:29:33 From Senthil Thirumurthy to Everyone:
+	yes
+11:31:12 From Ramesh Thangavelu to Everyone:
+	Can you share some good references for Hyperparameter tuning for Decision Tree ?
+11:31:48 From Faculty (Olympus) to Everyone:
+	https://www.arzanirani.com/blog/guide_hyperparameter_optimization/#k-Fold-Cross-Validation
+11:32:01 From Ramesh Thangavelu to Everyone:
+	Thank you
+11:32:32 From Ramesh Thangavelu to Everyone:
+	Have a great weekend - to all :)
+11:32:37 From Faculty (Olympus) to Everyone:
+	https://www.arzanirani.com/blog/deep_dive_decision_trees/

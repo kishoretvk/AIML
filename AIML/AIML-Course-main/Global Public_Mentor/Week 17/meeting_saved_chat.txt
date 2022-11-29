@@ -1,0 +1,16 @@
+09:30:02 From Faculty (Olympus) to Everyone:
+	https://drive.google.com/drive/folders/1-q2krKNx0MwfW3bu3lWgx0EuRVhl6Twc
+09:44:49 From Ravi Pasapula to Everyone:
+	what is Distortion?
+09:49:54 From Ravi Pasapula to Everyone:
+	Do we do this for all points?
+09:53:25 From Faculty (Olympus) to Everyone:
+	https://scikit-learn.org/stable/modules/clustering.html
+09:56:17 From Faculty (Olympus) to Everyone:
+	https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
+10:06:28 From Ravi Pasapula to Everyone:
+	yes, thanks
+10:22:15 From Radhakrishnan Rajaraman to Everyone:
+	Can you share the use cases for connective based vs centroid based?
+10:26:54 From Radhakrishnan Rajaraman to Everyone:
+	Thank you
